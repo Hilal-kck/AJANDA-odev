@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AJANDAM</string>
+    <string name="Button">OCAK</string>
+    <string name="Button4">ŞUBAT</string>
+    <string name="Button3">MART</string>
+    <string name="Button2">NİSAN</string>
+    <string name="Button6">MAYIS</string>
+    <string name="Button5">HAZİRAN</string>
+    <string name="Button9">TEMMUZ</string>
+    <string name="Button8">AĞUSTOS</string>
+    <string name="Button7">EYLÜL</string>
+    <string name="Button10">EKİM</string>
+    <string name="Button14">KASIM</string>
+    <string name="Button15">ARALIK</string>
+    <string name="textView">aylar</string>
+
+
+
+</resources>
